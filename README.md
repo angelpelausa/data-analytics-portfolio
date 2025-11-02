@@ -20,7 +20,7 @@ I enjoy learning new data analysis techniques and tools, and I'm always looking 
 
 ## Projects
 
-### Seismic Risk Assessment for Philippine Regions
+### [Seismic Risk Assessment for Philippine Regions](https://github.com/angelpelausa/philippine-earthquakes-analysis)
 
 **Objective:** Evaluate earthquake patterns and identify areas requiring priority attention for disaster preparedness.
 
@@ -34,7 +34,7 @@ I enjoy learning new data analysis techniques and tools, and I'm always looking 
 - Established correlation between earthquake strength and depth
 - Delivered insights to support regional safety planning
 
-### Healthcare Operations and Financial Analysis
+### [Healthcare Operations and Financial Analysis](https://github.com/angelpelausa/healthcare-data-analysis)
 
 **Objective:** Examine patient care patterns and revenue cycle effectiveness for a hospital system.
 
@@ -48,7 +48,7 @@ I enjoy learning new data analysis techniques and tools, and I'm always looking 
 - Analyzed cost variations across different payment sources
 - Provided data foundation for operational improvements
 
-### Global Supply Chain Performance Review
+### [Global Supply Chain Performance Review](https://github.com/angelpelausa/supply-chain-analysis)
 
 **Objective:** Assess operational efficiency and sales trends for an international logistics company.
 
@@ -62,7 +62,7 @@ I enjoy learning new data analysis techniques and tools, and I'm always looking 
 - Analyzed customer concentration risks
 - Highlighted payment collection and fraud detection issues
 
-### Workforce Retention and Attrition Analysis
+### [Workforce Retention and Attrition Analysis](https://github.com/angelpelausa/hr-attrition-analysis)
 
 **Objective:** Identify factors influencing employee turnover and recommend retention strategies.
 
@@ -76,7 +76,7 @@ I enjoy learning new data analysis techniques and tools, and I'm always looking 
 - Quantified impact of overtime on employee retention
 - Supported HR strategy with data-driven insights
 
-### Retail Sales Performance Optimization
+### [Retail Sales Performance Optimization](https://github.com/angelpelausa/coffee-shop-sales-analysis)
 
 **Objective:** Analyze sales operations for a multi-location coffee business to identify improvement opportunities.
 
